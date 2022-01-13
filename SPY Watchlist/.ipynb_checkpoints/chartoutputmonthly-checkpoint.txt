@@ -1,0 +1,210 @@
+Ticker: SPY; monthly squeeze_scan
+ 0.0,yellow
+SPY has room to run for the moment for the bollingers
+SPY is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: SPY; Monthly stacked EMA
+ is in the positive direction
+Ticker: SPY; Monthly directional trend is positive
+Ticker: MSFT; monthly squeeze_scan
+ 0.0,yellow
+MSFT has room to run for the moment for the bollingers
+MSFT is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: MSFT; Monthly stacked EMA
+ is in the positive direction
+Ticker: MSFT; Monthly directional trend is positive
+Ticker: AAPL; monthly squeeze_scan
+ 0.0,yellow
+AAPL has room to run for the moment for the bollingers
+AAPL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: AAPL; Monthly stacked EMA
+ is in the positive direction
+Ticker: AAPL; Monthly directional trend is positive
+Ticker: TSLA; monthly squeeze_scan
+ 0.0,yellow
+TSLA has room to run for the moment for the bollingers
+TSLA has room to run for the moment for the keltners
+Ticker: TSLA; Monthly stacked EMA
+ is in the positive direction
+Ticker: TSLA; Monthly directional trend is positive
+Ticker: GOOGL; monthly squeeze_scan
+ 0.0,cyan
+GOOGL has room to run for the moment for the bollingers
+GOOGL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: GOOGL; Monthly stacked EMA
+ is in the positive direction
+Ticker: GOOGL; Monthly directional trend is positive
+Ticker: GOOG; monthly squeeze_scan
+ 0.0,cyan
+GOOG has room to run for the moment for the bollingers
+GOOG is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: GOOG; Monthly stacked EMA
+ is in the positive direction
+Ticker: GOOG; Monthly directional trend is positive
+Ticker: FB; monthly squeeze_scan
+ 0.0,blue
+FB has room to run for the moment for the bollingers
+FB has room to run for the moment for the keltners
+Ticker: FB; Monthly stacked EMA
+ is in the positive direction
+Ticker: FB; Monthly directional trend is positive
+Ticker: NVDA; monthly squeeze_scan
+ 0.0,yellow
+NVDA has room to run for the moment for the bollingers
+NVDA is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: NVDA; Monthly stacked EMA
+ is in the positive direction
+Ticker: NVDA; Monthly directional trend is positive
+Ticker: BRK-B; monthly squeeze_scan
+ 0.0,blue
+BRK-B has room to run for the moment for the bollingers
+BRK-B has room to run for the moment for the keltners
+Ticker: BRK-B; Monthly stacked EMA
+ is in the positive direction
+Ticker: BRK-B; Monthly directional trend is positive
+Ticker: JPM; monthly squeeze_scan
+ 0.0,yellow
+JPM has room to run for the moment for the bollingers
+JPM has room to run for the moment for the keltners
+Ticker: JPM; Monthly stacked EMA
+ is in the positive direction
+Ticker: JPM; Monthly directional trend is positive
+Ticker: JNJ; monthly squeeze_scan
+ 0.0,yellow
+JNJ has room to run for the moment for the bollingers
+JNJ has room to run for the moment for the keltners
+Ticker: JNJ; Monthly stacked EMA
+ is in the positive direction
+Ticker: JNJ; Monthly directional trend is positive
+Ticker: UNH; monthly squeeze_scan
+ 0.0,yellow
+UNH has room to run for the moment for the bollingers
+UNH is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: UNH; Monthly stacked EMA
+ is in the positive direction
+Ticker: UNH; Monthly directional trend is positive
+Ticker: HD; monthly squeeze_scan
+ 0.0,yellow
+HD has room to run for the moment for the bollingers
+HD is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: HD; Monthly stacked EMA
+ is in the positive direction
+Ticker: HD; Monthly directional trend is positive
+Ticker: V; monthly squeeze_scan
+ 0.0,yellow
+V has room to run for the moment for the bollingers
+V has room to run for the moment for the keltners
+Ticker: V; Monthly stacked EMA
+ is in the positive direction
+Ticker: V; Monthly directional trend is negative
+Ticker: BAC; monthly squeeze_scan
+ 0.0,yellow
+BAC has room to run for the moment for the bollingers
+BAC has room to run for the moment for the keltners
+Ticker: BAC; Monthly stacked EMA
+ is in the positive direction
+Ticker: BAC; Monthly directional trend is positive
+Ticker: PG; monthly squeeze_scan
+ 0.0,yellow
+PG has room to run for the moment for the bollingers
+PG has room to run for the moment for the keltners
+Ticker: PG; Monthly stacked EMA
+ is in the positive direction
+Ticker: PG; Monthly directional trend is positive
+Ticker: DIS; monthly squeeze_scan
+ 0.0,yellow
+DIS has room to run for the moment for the bollingers
+DIS has room to run for the moment for the keltners
+Ticker: DIS; Monthly stacked EMA
+ is in the positive direction
+Ticker: DIS; Monthly directional trend is positive
+Ticker: ADBE; monthly squeeze_scan
+ 0.0,blue
+ADBE has room to run for the moment for the bollingers
+ADBE has room to run for the moment for the keltners
+Ticker: ADBE; Monthly stacked EMA
+ is in the positive direction
+Ticker: ADBE; Monthly directional trend is positive
+Ticker: NFLX; monthly squeeze_scan
+ 0.0,blue
+NFLX has room to run for the moment for the bollingers
+NFLX has room to run for the moment for the keltners
+Ticker: NFLX; Monthly stacked EMA
+ is in the positive direction
+Ticker: NFLX; Monthly directional trend is positive
+Ticker: CRM; monthly squeeze_scan
+ 0.0,blue
+CRM has room to run for the moment for the bollingers
+CRM has room to run for the moment for the keltners
+Ticker: CRM; Monthly stacked EMA
+ is in the positive direction
+Ticker: CRM; Monthly directional trend is positive
+Ticker: MA; monthly squeeze_scan
+ 0.0,yellow
+MA has room to run for the moment for the bollingers
+MA has room to run for the moment for the keltners
+Ticker: MA; Monthly stacked EMA
+ is in the positive direction
+Ticker: MA; Monthly directional trend is neutral or sideways
+Ticker: XOM; monthly squeeze_scan
+ 0.0,yellow
+XOM has room to run for the moment for the bollingers
+XOM has room to run for the moment for the keltners
+Ticker: XOM; Weekly stacked EMA
+ is neutral
+Ticker: XOM; Monthly directional trend is positive
+Ticker: PYPL; monthly squeeze_scan
+ 0.0,blue
+PYPL has room to run for the moment for the bollingers
+PYPL has room to run for the moment for the keltners
+Ticker: PYPL; Monthly stacked EMA
+ is in the positive direction
+Ticker: PYPL; Monthly directional trend is negative
+Ticker: TMO; monthly squeeze_scan
+ 0.0,yellow
+TMO has room to run for the moment for the bollingers
+TMO is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: TMO; Monthly stacked EMA
+ is in the positive direction
+Ticker: TMO; Monthly directional trend is positive
+Ticker: PFE; monthly squeeze_scan
+ 0.0,yellow
+PFE has room to run for the moment for the bollingers
+PFE has room to run for the moment for the keltners
+Ticker: PFE; Monthly stacked EMA
+ is in the positive direction
+Ticker: PFE; Monthly directional trend is positive
+Ticker: CMCSA; monthly squeeze_scan
+ 0.0,yellow
+CMCSA has room to run for the moment for the bollingers
+CMCSA has room to run for the moment for the keltners
+Ticker: CMCSA; Monthly stacked EMA
+ is in the positive direction
+Ticker: CMCSA; Monthly directional trend is negative
+Ticker: CSCO; monthly squeeze_scan
+ 0.0,yellow
+CSCO has room to run for the moment for the bollingers
+CSCO has room to run for the moment for the keltners
+Ticker: CSCO; Monthly stacked EMA
+ is in the positive direction
+Ticker: CSCO; Monthly directional trend is neutral or sideways
+Ticker: ABT; monthly squeeze_scan
+ 0.0,yellow
+ABT has room to run for the moment for the bollingers
+ABT has room to run for the moment for the keltners
+Ticker: ABT; Monthly stacked EMA
+ is in the positive direction
+Ticker: ABT; Monthly directional trend is positive
+Ticker: ACN; monthly squeeze_scan
+ 0.0,yellow
+ACN has room to run for the moment for the bollingers
+ACN is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ACN; Monthly stacked EMA
+ is in the positive direction
+Ticker: ACN; Monthly directional trend is positive
+Ticker: PEP; monthly squeeze_scan
+ 0.0,yellow
+PEP has room to run for the moment for the bollingers
+PEP has room to run for the moment for the keltners
+Ticker: PEP; Monthly stacked EMA
+ is in the positive direction
+Ticker: PEP; Monthly directional trend is negative
