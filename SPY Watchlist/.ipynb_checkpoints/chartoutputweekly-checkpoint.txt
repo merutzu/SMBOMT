@@ -1,0 +1,5 @@
+Ticker: PEP; weekly squeeze_scan
+ 0.0,yellow
+Ticker: PEP; Weekly stacked EMA
+ is in the positive direction
+Ticker: PEP; Weekly directional trend is positive

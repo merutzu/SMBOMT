@@ -1,0 +1,303 @@
+0
+"endDate                             2020-12-31   2019-12-31   2018-12-31  \
+Breakdown                                                                  
+researchDevelopment                       None         None         None   
+effectOfAccountingCharges                 None         None         None   
+incomeBeforeTax                     7760000000   9731000000   7204000000   
+minorityInterest                     126000000     98000000     94000000   
+netIncome                           6411000000   8118000000   5859000000   
+sellingGeneralAdministrative        6559000000   6694000000   6073000000   
+grossProfit                        15301000000  16883000000  14950000000   
+ebit                                8162000000   9667000000   8418000000   
+operatingIncome                     8162000000   9667000000   8418000000   
+otherOperatingExpenses                    None         None         None   
+interestExpense                     -380000000   -224000000   -186000000   
+extraordinaryItems                        None         None         None   
+nonRecurring                              None         None         None   
+otherItems                                None         None         None   
+incomeTaxExpense                    1349000000   1613000000   1345000000   
+totalRevenue                       15301000000  16883000000  14950000000   
+totalOperatingExpenses              7139000000   7216000000   6532000000   
+costOfRevenue                                0            0            0   
+totalOtherIncomeExpenseNet          -402000000     64000000  -1214000000   
+discontinuedOperations                    None         None         None   
+netIncomeFromContinuingOps          6411000000   8118000000   5859000000   
+netIncomeApplicableToCommonShares   6411000000   8118000000   5859000000   
+
+endDate                             2017-12-31  
+Breakdown                                       
+researchDevelopment                       None  
+effectOfAccountingCharges                 None  
+incomeBeforeTax                     6522000000  
+minorityInterest                     100000000  
+netIncome                           3915000000  
+sellingGeneralAdministrative        5252000000  
+grossProfit                        12497000000  
+ebit                                6809000000  
+operatingIncome                     6809000000  
+otherOperatingExpenses                    None  
+interestExpense                     -154000000  
+extraordinaryItems                        None  
+nonRecurring                              None  
+otherItems                                None  
+incomeTaxExpense                    2607000000  
+totalRevenue                       12497000000  
+totalOperatingExpenses              5688000000  
+costOfRevenue                                0  
+totalOtherIncomeExpenseNet          -287000000  
+discontinuedOperations                    None  
+netIncomeFromContinuingOps          3915000000  
+netIncomeApplicableToCommonShares   3915000000  "
+"endDate                         2020-12-31    2019-12-31    2018-12-31  \
+Breakdown                                                                
+intangibleAssets              1.753000e+09  1.417000e+09  9.910000e+08   
+capitalSurplus                4.982000e+09  4.787000e+09  4.580000e+09   
+totalLiab                     2.706700e+10  2.324500e+10  1.937100e+10   
+totalStockholderEquity        6.391000e+09  5.893000e+09  5.395000e+09   
+minorityInterest              1.260000e+08  9.800000e+07  9.400000e+07   
+deferredLongTermLiab          3.220000e+09  2.838000e+09  2.458000e+09   
+otherCurrentLiab              5.320000e+09  6.149000e+09  5.964000e+09   
+totalAssets                   3.358400e+10  2.923600e+10  2.486000e+10   
+otherCurrentAssets            4.165000e+09  3.717000e+09  3.065000e+09   
+retainedEarnings              3.874700e+10  3.398400e+10  2.728300e+10   
+otherLiab                     2.471000e+09  2.158000e+09  1.944000e+09   
+goodWill                      4.960000e+09  4.021000e+09  2.904000e+09   
+treasuryStock                -3.733800e+10 -3.287800e+10 -2.646800e+10   
+otherAssets                   4.684000e+09  4.154000e+09  3.536000e+09   
+cash                          1.011300e+10  6.988000e+09  6.682000e+09   
+totalCurrentLiabilities       1.184700e+10  1.190400e+10  1.159300e+10   
+deferredLongTermAssetCharges  4.910000e+08  5.430000e+08  5.700000e+08   
+shortLongTermDebt             6.490000e+08           NaN  5.000000e+08   
+otherStockholderEquity       -6.800000e+08 -6.730000e+08 -7.180000e+08   
+propertyPlantEquipment        1.902000e+09  1.828000e+09  9.210000e+08   
+totalCurrentAssets            1.911300e+10  1.690200e+10  1.617100e+10   
+longTermInvestments           1.172000e+09  9.140000e+08  3.370000e+08   
+netTangibleAssets            -3.220000e+08  4.550000e+08  1.500000e+09   
+shortTermInvestments          4.830000e+08  6.880000e+08  1.696000e+09   
+netReceivables                4.352000e+09  5.509000e+09  4.728000e+09   
+longTermDebt                  1.202300e+10  8.527000e+09  5.834000e+09   
+accountsPayable               5.270000e+08  4.890000e+08  5.370000e+08   
+
+endDate                         2017-12-31  
+Breakdown                                   
+intangibleAssets              1.120000e+09  
+capitalSurplus                4.365000e+09  
+totalLiab                     1.576100e+10  
+totalStockholderEquity        5.468000e+09  
+minorityInterest              1.000000e+08  
+deferredLongTermLiab          1.434000e+09  
+otherCurrentLiab              4.123000e+09  
+totalAssets                   2.132900e+10  
+otherCurrentAssets            2.677000e+09  
+retainedEarnings              2.236400e+10  
+otherLiab                     1.544000e+09  
+goodWill                      3.035000e+09  
+treasuryStock                -2.126100e+10  
+otherAssets                   2.299000e+09  
+cash                          5.933000e+09  
+totalCurrentLiabilities       8.793000e+09  
+deferredLongTermAssetCharges  2.500000e+08  
+shortLongTermDebt                      NaN  
+otherStockholderEquity       -4.970000e+08  
+propertyPlantEquipment        8.290000e+08  
+totalCurrentAssets            1.379700e+10  
+longTermInvestments           2.490000e+08  
+netTangibleAssets             1.313000e+09  
+shortTermInvestments          1.849000e+09  
+netReceivables                3.338000e+09  
+longTermDebt                  5.424000e+09  
+accountsPayable               9.330000e+08  "
+"endDate                                2020-12-31  2019-12-31  2018-12-31  \
+Breakdown                                                                   
+investments                             -10000000   532000000    12000000   
+changeToLiabilities                      26000000   -42000000   101000000   
+totalCashflowsFromInvestingActivities -1879000000 -1640000000  -506000000   
+netBorrowings                          3959000000  2224000000   991000000   
+totalCashFromFinancingActivities      -2152000000 -5867000000 -4966000000   
+changeToOperatingActivities           -2339000000  -766000000   121000000   
+issuanceOfStock                          97000000   126000000   104000000   
+netIncome                              6411000000  8118000000  5859000000   
+changeInCash                           3450000000   632000000   745000000   
+repurchaseOfStock                     -4623000000 -6658000000 -5013000000   
+effectOfExchangeRate                    257000000   -44000000    -6000000   
+totalCashFromOperatingActivities       7224000000  8183000000  6223000000   
+depreciation                            703000000   621000000   459000000   
+otherCashflowsFromInvestingActivities  -172000000    -4000000   -14000000   
+dividendsPaid                         -1605000000 -1345000000 -1044000000   
+changeToAccountReceivables             1202000000  -690000000 -1395000000   
+otherCashflowsFromFinancingActivities    20000000  -214000000    -4000000   
+changeToNetincome                       188000000     1000000   -17000000   
+capitalExpenditures                    -339000000  -422000000  -330000000   
+
+endDate                                2017-12-31  
+Breakdown                                          
+investments                            -182000000  
+changeToLiabilities                     290000000  
+totalCashflowsFromInvestingActivities -1781000000  
+netBorrowings                           -64000000  
+totalCashFromFinancingActivities      -4764000000  
+changeToOperatingActivities            -310000000  
+issuanceOfStock                          57000000  
+netIncome                              3915000000  
+changeInCash                           -681000000  
+repurchaseOfStock                     -3809000000  
+effectOfExchangeRate                    200000000  
+totalCashFromOperatingActivities       5664000000  
+depreciation                            437000000  
+otherCashflowsFromInvestingActivities    -1000000  
+dividendsPaid                          -942000000  
+changeToAccountReceivables             -726000000  
+otherCashflowsFromFinancingActivities    -6000000  
+changeToNetincome                       488000000  
+capitalExpenditures                    -300000000  "
+"endDate                            2021-09-30  2021-06-30  2021-03-31  \
+Breakdown                                                               
+researchDevelopment                      None        None        None   
+effectOfAccountingCharges                None        None        None   
+incomeBeforeTax                    2816000000  2478000000  2190000000   
+minorityInterest                     99000000   127000000   126000000   
+netIncome                          2414000000  2066000000  1828000000   
+sellingGeneralAdministrative       1971000000  1934000000  1795000000   
+grossProfit                        4985000000  4528000000  4155000000   
+ebit                               2826000000  2408000000  2197000000   
+operatingIncome                    2826000000  2408000000  2197000000   
+otherOperatingExpenses                   None        None        None   
+interestExpense                    -110000000  -106000000  -107000000   
+extraordinaryItems                       None        None        None   
+nonRecurring                             None        None        None   
+otherItems                               None        None        None   
+incomeTaxExpense                    402000000   412000000   362000000   
+totalRevenue                       4985000000  4528000000  4155000000   
+totalOperatingExpenses             2159000000  2120000000  1958000000   
+costOfRevenue                               0           0           0   
+totalOtherIncomeExpenseNet          -10000000    70000000    -7000000   
+discontinuedOperations                   None        None        None   
+netIncomeFromContinuingOps         2414000000  2066000000  1828000000   
+netIncomeApplicableToCommonShares  2414000000  2066000000  1828000000   
+
+endDate                            2020-12-31  
+Breakdown                                      
+researchDevelopment                      None  
+effectOfAccountingCharges                None  
+incomeBeforeTax                    2168000000  
+minorityInterest                    126000000  
+netIncome                          1785000000  
+sellingGeneralAdministrative       1859000000  
+grossProfit                        4120000000  
+ebit                               2111000000  
+operatingIncome                    2111000000  
+otherOperatingExpenses                   None  
+interestExpense                    -108000000  
+extraordinaryItems                       None  
+nonRecurring                             None  
+otherItems                               None  
+incomeTaxExpense                    383000000  
+totalRevenue                       4120000000  
+totalOperatingExpenses             2009000000  
+costOfRevenue                               0  
+totalOtherIncomeExpenseNet           57000000  
+discontinuedOperations                   None  
+netIncomeFromContinuingOps         1785000000  
+netIncomeApplicableToCommonShares  1785000000  "
+"endDate                        2021-09-30   2021-06-30   2021-03-31  \
+Breakdown                                                             
+intangibleAssets               3561000000   3613000000   3321000000   
+capitalSurplus                 5026000000   5053000000   4949000000   
+totalLiab                     28608000000  28342000000  28347000000   
+totalStockholderEquity         6703000000   6442000000   6327000000   
+minorityInterest                 99000000    127000000    126000000   
+deferredLongTermLiab           3732000000   3609000000   3413000000   
+otherCurrentLiab               4782000000   4745000000   5446000000   
+totalAssets                   35410000000  34911000000  34800000000   
+otherCurrentAssets             4785000000   4609000000   4344000000   
+retainedEarnings              43750000000  41771000000  40140000000   
+otherLiab                      3836000000   3795000000   3651000000   
+goodWill                       7569000000   7661000000   7051000000   
+treasuryStock                -42073000000 -40382000000 -38762000000   
+otherAssets                    5354000000   5124000000   4868000000   
+cash                           6406000000   6216000000   7246000000   
+totalCurrentLiabilities       11561000000  11297000000  11475000000   
+deferredLongTermAssetCharges    471000000    454000000    459000000   
+shortLongTermDebt               650000000    649000000    649000000   
+otherStockholderEquity         -791000000   -653000000   -738000000   
+propertyPlantEquipment         1860000000   1839000000   1850000000   
+totalCurrentAssets            15382000000  15079000000  16405000000   
+longTermInvestments            1684000000   1595000000   1305000000   
+netTangibleAssets             -4427000000  -4832000000  -4045000000   
+shortTermInvestments            510000000    544000000    489000000   
+netReceivables                 3681000000   3710000000   4326000000   
+longTermDebt                  13211000000  13250000000  13221000000   
+accountsPayable                 557000000    547000000    476000000   
+
+endDate                        2020-12-31  
+Breakdown                                  
+intangibleAssets               1753000000  
+capitalSurplus                 4982000000  
+totalLiab                     27067000000  
+totalStockholderEquity         6391000000  
+minorityInterest                126000000  
+deferredLongTermLiab           3220000000  
+otherCurrentLiab               5320000000  
+totalAssets                   33584000000  
+otherCurrentAssets             4165000000  
+retainedEarnings              38747000000  
+otherLiab                      2471000000  
+goodWill                       4960000000  
+treasuryStock                -37338000000  
+otherAssets                    4684000000  
+cash                          10113000000  
+totalCurrentLiabilities       11847000000  
+deferredLongTermAssetCharges    491000000  
+shortLongTermDebt               649000000  
+otherStockholderEquity         -680000000  
+propertyPlantEquipment         1902000000  
+totalCurrentAssets            19113000000  
+longTermInvestments            1172000000  
+netTangibleAssets              -322000000  
+shortTermInvestments            483000000  
+netReceivables                 4352000000  
+longTermDebt                  12023000000  
+accountsPayable                 527000000  "
+"endDate                                  2021-09-30    2021-06-30  \
+Breakdown                                                           
+investments                            1.170000e+08 -9.500000e+07   
+changeToLiabilities                    1.800000e+07 -7.700000e+07   
+totalCashflowsFromInvestingActivities -1.320000e+08 -1.142000e+09   
+totalCashFromFinancingActivities      -2.137000e+09 -2.195000e+09   
+changeToOperatingActivities           -2.810000e+08 -6.900000e+08   
+issuanceOfStock                        1.100000e+07  2.100000e+07   
+netIncome                              2.414000e+09  2.066000e+09   
+changeInCash                           2.180000e+08 -9.920000e+08   
+repurchaseOfStock                     -1.566000e+09 -1.715000e+09   
+effectOfExchangeRate                  -5.600000e+07  7.700000e+07   
+totalCashFromOperatingActivities       2.543000e+09  2.268000e+09   
+depreciation                           1.880000e+08  1.860000e+08   
+otherCashflowsFromInvestingActivities -3.000000e+06 -1.800000e+07   
+dividendsPaid                         -4.340000e+08 -4.340000e+08   
+otherCashflowsFromFinancingActivities -1.480000e+08 -6.700000e+07   
+changeToNetincome                     -1.400000e+08 -1.830000e+08   
+capitalExpenditures                   -1.390000e+08 -8.100000e+07   
+changeToAccountReceivables                      NaN  6.530000e+08   
+netBorrowings                                   NaN           NaN   
+
+endDate                                  2021-03-31    2020-12-31  
+Breakdown                                                          
+investments                           -6.100000e+07 -1.000000e+08  
+changeToLiabilities                   -1.500000e+07  1.710000e+08  
+totalCashflowsFromInvestingActivities -3.560000e+09 -1.054000e+09  
+totalCashFromFinancingActivities      -6.060000e+08 -1.375000e+09  
+changeToOperatingActivities           -8.240000e+08  4.940000e+08  
+issuanceOfStock                        2.300000e+07  9.000000e+06  
+netIncome                              1.828000e+09  1.785000e+09  
+changeInCash                          -2.804000e+09  1.500000e+07  
+repurchaseOfStock                     -1.477000e+09 -1.035000e+09  
+effectOfExchangeRate                  -1.010000e+08  1.910000e+08  
+totalCashFromOperatingActivities       1.463000e+09  2.253000e+09  
+depreciation                           1.630000e+08  2.730000e+08  
+otherCashflowsFromInvestingActivities  9.000000e+06  3.000000e+06  
+dividendsPaid                         -4.390000e+08 -3.990000e+08  
+otherCashflowsFromFinancingActivities  5.000000e+06  5.000000e+07  
+changeToNetincome                      1.500000e+07 -2.260000e+08  
+capitalExpenditures                   -6.500000e+07 -5.900000e+07  
+changeToAccountReceivables            -4.200000e+07 -5.280000e+08  
+netBorrowings                          1.282000e+09  1.282000e+09  "

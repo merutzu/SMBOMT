@@ -1,0 +1,240 @@
+Ticker: SPY; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+SPY has room to run for the moment for the keltners
+Ticker: SPY; Stacked EMA
+ is in the positive direction
+Ticker: SPY; Directional trend is neutral or sideways
+
+Ticker: MSFT; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+MSFT has room to run for the moment for the keltners
+Ticker: MSFT; Stacked EMA
+ is in the positive direction
+Ticker: MSFT; Directional trend is positive
+
+Ticker: AAPL; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+AAPL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: AAPL; Stacked EMA
+ is in the positive direction
+Ticker: AAPL; Directional trend is positive
+
+Ticker: TSLA; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+TSLA has room to run for the moment for the keltners
+Ticker: TSLA; Stacked EMA
+ is in the positive direction
+Ticker: TSLA; Directional trend is positive
+
+Ticker: GOOGL; Squeeze_scan
+ 1.0,blue
+stock is between the bollingers at the moment, it is neutral
+GOOGL has room to run for the moment for the keltners
+Ticker: GOOGL; Stacked EMA
+ is in the positive direction
+Ticker: GOOGL; Directional trend is positive
+
+Ticker: GOOG; Squeeze_scan
+ 1.0,blue
+stock is between the bollingers at the moment, it is neutral
+GOOG has room to run for the moment for the keltners
+Ticker: GOOG; Stacked EMA
+ is in the positive direction
+Ticker: GOOG; Directional trend is positive
+
+Ticker: FB; Squeeze_scan
+ 1.0,yellow
+stock is between the bollingers at the moment, it is neutral
+FB has room to run for the moment for the keltners
+Ticker: FB; Stacked EMA
+ is neutral
+Ticker: FB; Directional trend is neutral or sideways
+
+Ticker: NVDA; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+NVDA has room to run for the moment for the keltners
+Ticker: NVDA; Stacked EMA
+ is in the positive direction
+Ticker: NVDA; Directional trend is positive
+
+Ticker: BRK-B; Squeeze_scan
+ 1.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+BRK-B has room to run for the moment for the keltners
+Ticker: BRK-B; Stacked EMA
+ is in the positive direction
+Ticker: BRK-B; Directional trend is positive
+
+Ticker: JPM; Squeeze_scan
+ 1.0,yellow
+stock is between the bollingers at the moment, it is neutral
+JPM has room to run for the moment for the keltners
+Ticker: JPM; Stacked EMA
+ is neutral
+Ticker: JPM; Directional trend is neutral or sideways
+
+Ticker: JNJ; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+JNJ has room to run for the moment for the keltners
+Ticker: JNJ; Stacked EMA
+ is in the positive direction
+Ticker: JNJ; Directional trend is neutral or sideways
+
+Ticker: UNH; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+UNH is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: UNH; Stacked EMA
+ is in the positive direction
+Ticker: UNH; Directional trend is positive
+
+Ticker: HD; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+HD is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: HD; Stacked EMA
+ is in the positive direction
+Ticker: HD; Directional trend is positive
+
+Ticker: V; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+V has room to run for the moment for the keltners
+Ticker: V; Stacked EMA
+ is neutral
+Ticker: V; Directional trend is neutral or sideways
+
+Ticker: BAC; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+BAC has room to run for the moment for the keltners
+Ticker: BAC; Stacked EMA
+ is in the positive direction
+Ticker: BAC; Directional trend is neutral or sideways
+
+Ticker: PG; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+PG is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: PG; Stacked EMA
+ is in the positive direction
+Ticker: PG; Directional trend is positive
+
+Ticker: DIS; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+DIS has room to run for the moment for the keltners
+Ticker: DIS; Stacked EMA
+ is neutral
+Ticker: DIS; Directional trend is neutral or sideways
+
+Ticker: ADBE; Squeeze_scan
+ 0.0,red
+stock is between the bollingers at the moment, it is neutral
+ADBE has room to run for the moment for the keltners
+Ticker: ADBE; Stacked EMA
+ is neutral
+Ticker: ADBE; Directional trend is negative
+
+Ticker: NFLX; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+NFLX has room to run for the moment for the keltners
+Ticker: NFLX; Stacked EMA
+ is in the positive direction
+Ticker: NFLX; Directional trend is negative
+
+Ticker: CRM; Squeeze_scan
+ 0.0,red
+stock is between the bollingers at the moment, it is neutral
+CRM has room to run for the moment for the keltners
+Ticker: CRM; Stacked EMA
+ is neutral
+Ticker: CRM; Directional trend is negative
+
+Ticker: MA; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+MA has room to run for the moment for the keltners
+Ticker: MA; Stacked EMA
+ is neutral
+Ticker: MA; Directional trend is positive
+
+Ticker: XOM; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+XOM has room to run for the moment for the keltners
+Ticker: XOM; Stacked EMA
+ is in the positive direction
+Ticker: XOM; Directional trend is positive
+
+Ticker: PYPL; Squeeze_scan
+ 0.0,red
+stock is between the bollingers at the moment, it is neutral
+PYPL has room to run for the moment for the keltners
+Ticker: PYPL; Stacked EMA
+ is neutral
+Ticker: PYPL; Directional trend is negative
+
+Ticker: TMO; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+TMO has room to run for the moment for the keltners
+Ticker: TMO; Stacked EMA
+ is in the positive direction
+Ticker: TMO; Directional trend is positive
+
+Ticker: PFE; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+PFE is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: PFE; Stacked EMA
+ is in the positive direction
+Ticker: PFE; Directional trend is positive
+
+Ticker: CMCSA; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+CMCSA has room to run for the moment for the keltners
+Ticker: CMCSA; Stacked EMA
+ is neutral
+Ticker: CMCSA; Directional trend is negative
+
+Ticker: CSCO; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+CSCO is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: CSCO; Stacked EMA
+ is in the positive direction
+Ticker: CSCO; Directional trend is positive
+
+Ticker: ABT; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+ABT is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ABT; Stacked EMA
+ is in the positive direction
+Ticker: ABT; Directional trend is neutral or sideways
+
+Ticker: ACN; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+ACN is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ACN; Stacked EMA
+ is in the positive direction
+Ticker: ACN; Directional trend is positive
+
+Ticker: PEP; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+PEP is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: PEP; Stacked EMA
+ is in the positive direction
+Ticker: PEP; Directional trend is positive
+

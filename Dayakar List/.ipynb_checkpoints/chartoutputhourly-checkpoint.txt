@@ -1,0 +1,344 @@
+Ticker: AAPL; hourly squeeze_scan
+ 0.0,cyan
+AAPL is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging
+AAPL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: AAPL; Hourly stacked EMA
+ is in the positive direction
+Ticker: AAPL; Hourly directional trend is positive
+
+Ticker: ADSK; hourly squeeze_scan
+ 0.0,red
+ADSK has room to run for the moment for the bollingers
+ADSK has room to run for the moment for the keltners
+Ticker: ADSK; Hourly stacked EMA
+ is neutral
+Ticker: ADSK; Hourly directional trend is positive
+
+Ticker: AMZN; hourly squeeze_scan
+ 0.0,red
+AMZN has room to run for the moment for the bollingers
+AMZN has room to run for the moment for the keltners
+Ticker: AMZN; Hourly stacked EMA
+ is in the negative direction
+Ticker: AMZN; Hourly directional trend is neutral or sideways
+
+Ticker: AMP; hourly squeeze_scan
+ 1.0,yellow
+AMP has room to run for the moment for the bollingers
+AMP has room to run for the moment for the keltners
+Ticker: AMP; Hourly stacked EMA
+ is neutral
+Ticker: AMP; Hourly directional trend is neutral or sideways
+
+Ticker: APD; hourly squeeze_scan
+ 0.0,yellow
+APD has room to run for the moment for the bollingers
+APD has room to run for the moment for the keltners
+Ticker: APD; Hourly stacked EMA
+ is neutral
+Ticker: APD; Hourly directional trend is neutral or sideways
+
+Ticker: AUDC; hourly squeeze_scan
+ 1.0,blue
+AUDC has room to run for the moment for the bollingers
+AUDC has room to run for the moment for the keltners
+Ticker: AUDC; Hourly stacked EMA
+ is in the positive direction
+Ticker: AUDC; Hourly directional trend is positive
+
+Ticker: BBY; hourly squeeze_scan
+ 0.0,yellow
+BBY has room to run for the moment for the bollingers
+BBY has room to run for the moment for the keltners
+Ticker: BBY; Hourly stacked EMA
+ is in the negative direction
+Ticker: BBY; Hourly directional trend is negative
+
+Ticker: BEEM; hourly squeeze_scan
+ 0.0,yellow
+BEEM has room to run for the moment for the bollingers
+BEEM has room to run for the moment for the keltners
+Ticker: BEEM; Hourly stacked EMA
+ is in the negative direction
+Ticker: BEEM; Hourly directional trend is negative
+
+Ticker: BLNK; hourly squeeze_scan
+ 0.0,red
+BLNK has room to run for the moment for the bollingers
+BLNK has room to run for the moment for the keltners
+Ticker: BLNK; Hourly stacked EMA
+ is in the negative direction
+Ticker: BLNK; Hourly directional trend is neutral or sideways
+
+Ticker: BURL; hourly squeeze_scan
+ 1.0,yellow
+BURL has room to run for the moment for the bollingers
+BURL has room to run for the moment for the keltners
+Ticker: BURL; Hourly stacked EMA
+ is neutral
+Ticker: BURL; Hourly directional trend is neutral or sideways
+
+Ticker: CHE; hourly squeeze_scan
+ 0.0,blue
+CHE has room to run for the moment for the bollingers
+CHE is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: CHE; Hourly stacked EMA
+ is in the positive direction
+Ticker: CHE; Hourly directional trend is positive
+
+Ticker: CHPT; hourly squeeze_scan
+ 0.0,yellow
+CHPT has room to run for the moment for the bollingers
+CHPT has room to run for the moment for the keltners
+Ticker: CHPT; Hourly stacked EMA
+ is in the negative direction
+Ticker: CHPT; Hourly directional trend is negative
+
+Ticker: CLF; hourly squeeze_scan
+ 0.0,red
+CLF has room to run for the moment for the bollingers
+CLF has room to run for the moment for the keltners
+Ticker: CLF; Hourly stacked EMA
+ is in the negative direction
+Ticker: CLF; Hourly directional trend is negative
+
+Ticker: CLFD; hourly squeeze_scan
+ 1.0,red
+CLFD has room to run for the moment for the bollingers
+CLFD has room to run for the moment for the keltners
+Ticker: CLFD; Hourly stacked EMA
+ is neutral
+Ticker: CLFD; Hourly directional trend is neutral or sideways
+
+Ticker: CMA; hourly squeeze_scan
+ 1.0,yellow
+CMA has room to run for the moment for the bollingers
+CMA has room to run for the moment for the keltners
+Ticker: CMA; Hourly stacked EMA
+ is in the negative direction
+Ticker: CMA; Hourly directional trend is neutral or sideways
+
+Ticker: DKS; hourly squeeze_scan
+ 0.0,blue
+DKS has room to run for the moment for the bollingers
+DKS has room to run for the moment for the keltners
+Ticker: DKS; Hourly stacked EMA
+ is neutral
+Ticker: DKS; Hourly directional trend is positive
+
+Ticker: EVGO; hourly squeeze_scan
+ 0.0,red
+EVGO has room to run for the moment for the bollingers
+EVGO has room to run for the moment for the keltners
+Ticker: EVGO; Hourly stacked EMA
+ is neutral
+Ticker: EVGO; Hourly directional trend is positive
+
+Ticker: F; hourly squeeze_scan
+ 0.0,cyan
+F has room to run for the moment for the bollingers
+F is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: F; Hourly stacked EMA
+ is in the positive direction
+Ticker: F; Hourly directional trend is positive
+
+Ticker: FB; hourly squeeze_scan
+ 1.0,red
+FB has room to run for the moment for the bollingers
+FB has room to run for the moment for the keltners
+Ticker: FB; Hourly stacked EMA
+ is neutral
+Ticker: FB; Hourly directional trend is positive
+
+Ticker: GOOG; hourly squeeze_scan
+ 1.0,blue
+GOOG has room to run for the moment for the bollingers
+GOOG has room to run for the moment for the keltners
+Ticker: GOOG; Hourly stacked EMA
+ is in the positive direction
+Ticker: GOOG; Hourly directional trend is positive
+
+Ticker: LOW; hourly squeeze_scan
+ 0.0,cyan
+LOW has room to run for the moment for the bollingers
+LOW is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: LOW; Hourly stacked EMA
+ is in the positive direction
+Ticker: LOW; Hourly directional trend is positive
+
+Ticker: M; hourly squeeze_scan
+ 0.0,yellow
+M has room to run for the moment for the bollingers
+M has room to run for the moment for the keltners
+Ticker: M; Hourly stacked EMA
+ is in the negative direction
+Ticker: M; Hourly directional trend is neutral or sideways
+
+Ticker: MELI; hourly squeeze_scan
+ 0.0,red
+MELI has room to run for the moment for the bollingers
+MELI has room to run for the moment for the keltners
+Ticker: MELI; Hourly stacked EMA
+ is in the negative direction
+Ticker: MELI; Hourly directional trend is neutral or sideways
+
+Ticker: NET; hourly squeeze_scan
+ 0.0,red
+NET has room to run for the moment for the bollingers
+NET has room to run for the moment for the keltners
+Ticker: NET; Hourly stacked EMA
+ is in the negative direction
+Ticker: NET; Hourly directional trend is neutral or sideways
+
+Ticker: NIO; hourly squeeze_scan
+ 1.0,red
+NIO has room to run for the moment for the bollingers
+NIO has room to run for the moment for the keltners
+Ticker: NIO; Hourly stacked EMA
+ is in the negative direction
+Ticker: NIO; Hourly directional trend is neutral or sideways
+
+Ticker: CRM; hourly squeeze_scan
+ 1.0,yellow
+CRM has room to run for the moment for the bollingers
+CRM has room to run for the moment for the keltners
+Ticker: CRM; Hourly stacked EMA
+ is neutral
+Ticker: CRM; Hourly directional trend is neutral or sideways
+
+Ticker: WDAY; hourly squeeze_scan
+ 1.0,red
+WDAY has room to run for the moment for the bollingers
+WDAY has room to run for the moment for the keltners
+Ticker: WDAY; Hourly stacked EMA
+ is neutral
+Ticker: WDAY; Hourly directional trend is neutral or sideways
+
+Ticker: DASH; hourly squeeze_scan
+ 0.0,red
+DASH has room to run for the moment for the bollingers
+DASH has room to run for the moment for the keltners
+Ticker: DASH; Hourly stacked EMA
+ is in the negative direction
+Ticker: DASH; Hourly directional trend is neutral or sideways
+
+Ticker: GM; hourly squeeze_scan
+ 0.0,cyan
+GM has room to run for the moment for the bollingers
+GM is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: GM; Hourly stacked EMA
+ is in the positive direction
+Ticker: GM; Hourly directional trend is neutral or sideways
+
+Ticker: ALB; hourly squeeze_scan
+ 1.0,red
+ALB has room to run for the moment for the bollingers
+ALB has room to run for the moment for the keltners
+Ticker: ALB; Hourly stacked EMA
+ is neutral
+Ticker: ALB; Hourly directional trend is neutral or sideways
+
+Ticker: RIVN; hourly squeeze_scan
+ 0.0,red
+RIVN has room to run for the moment for the bollingers
+RIVN has room to run for the moment for the keltners
+Ticker: RIVN; Hourly stacked EMA
+ is in the negative direction
+Ticker: RIVN; Hourly directional trend is neutral or sideways
+
+Ticker: ABNB; hourly squeeze_scan
+ 0.0,red
+ABNB has room to run for the moment for the bollingers
+ABNB has room to run for the moment for the keltners
+Ticker: ABNB; Hourly stacked EMA
+ is neutral
+Ticker: ABNB; Hourly directional trend is negative
+
+Ticker: U; hourly squeeze_scan
+ 0.0,yellow
+U has room to run for the moment for the bollingers
+U has room to run for the moment for the keltners
+Ticker: U; Hourly stacked EMA
+ is in the negative direction
+Ticker: U; Hourly directional trend is negative
+
+Ticker: CPRT; hourly squeeze_scan
+ 1.0,yellow
+CPRT has room to run for the moment for the bollingers
+CPRT has room to run for the moment for the keltners
+Ticker: CPRT; Hourly stacked EMA
+ is neutral
+Ticker: CPRT; Hourly directional trend is neutral or sideways
+
+Ticker: UPST; hourly squeeze_scan
+ 0.0,red
+UPST has room to run for the moment for the bollingers
+UPST has room to run for the moment for the keltners
+Ticker: UPST; Hourly stacked EMA
+ is in the negative direction
+Ticker: UPST; Hourly directional trend is negative
+
+Ticker: DAL; hourly squeeze_scan
+ 0.0,red
+DAL has room to run for the moment for the bollingers
+DAL has room to run for the moment for the keltners
+Ticker: DAL; Hourly stacked EMA
+ is neutral
+Ticker: DAL; Hourly directional trend is neutral or sideways
+
+Ticker: RCL; hourly squeeze_scan
+ 1.0,red
+RCL has room to run for the moment for the bollingers
+RCL has room to run for the moment for the keltners
+Ticker: RCL; Hourly stacked EMA
+ is neutral
+Ticker: RCL; Hourly directional trend is positive
+
+Ticker: MGM; hourly squeeze_scan
+ 0.0,red
+MGM has room to run for the moment for the bollingers
+MGM has room to run for the moment for the keltners
+Ticker: MGM; Hourly stacked EMA
+ is in the negative direction
+Ticker: MGM; Hourly directional trend is neutral or sideways
+
+Ticker: BAC; hourly squeeze_scan
+ 1.0,cyan
+BAC has room to run for the moment for the bollingers
+BAC has room to run for the moment for the keltners
+Ticker: BAC; Hourly stacked EMA
+ is neutral
+Ticker: BAC; Hourly directional trend is neutral or sideways
+
+Ticker: ORCL; hourly squeeze_scan
+ 0.0,cyan
+ORCL has room to run for the moment for the bollingers
+ORCL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ORCL; Hourly stacked EMA
+ is in the positive direction
+Ticker: ORCL; Hourly directional trend is positive
+
+Ticker: APPS; hourly squeeze_scan
+ 0.0,red
+APPS has room to run for the moment for the bollingers
+APPS has room to run for the moment for the keltners
+Ticker: APPS; Hourly stacked EMA
+ is neutral
+Ticker: APPS; Hourly directional trend is neutral or sideways
+
+Ticker: MPWR; hourly squeeze_scan
+ 0.0,red
+MPWR has room to run for the moment for the bollingers
+MPWR has room to run for the moment for the keltners
+Ticker: MPWR; Hourly stacked EMA
+ is in the negative direction
+Ticker: MPWR; Hourly directional trend is neutral or sideways
+
+Ticker: TMO; hourly squeeze_scan
+ 1.0,blue
+TMO is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging
+TMO has room to run for the moment for the keltners
+Ticker: TMO; Hourly stacked EMA
+ is in the positive direction
+Ticker: TMO; Hourly directional trend is positive
+

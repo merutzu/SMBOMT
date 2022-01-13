@@ -1,0 +1,344 @@
+Ticker: AAPL; weekly squeeze_scan
+ 0.0,yellow
+AAPL has room to run for the moment for the bollingers
+AAPL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: AAPL; Weekly stacked EMA
+ is in the positive direction
+Ticker: AAPL; Weekly directional trend is positive
+
+Ticker: ADSK; weekly squeeze_scan
+ 0.0,red
+ADSK has room to run for the moment for the bollingers
+ADSK has room to run for the moment for the keltners
+Ticker: ADSK; Weekly stacked EMA
+ is neutral
+Ticker: ADSK; Weekly directional trend is neutral or sideways
+
+Ticker: AMZN; weekly squeeze_scan
+ 1.0,cyan
+AMZN has room to run for the moment for the bollingers
+AMZN has room to run for the moment for the keltners
+Ticker: AMZN; Weekly stacked EMA
+ is in the positive direction
+Ticker: AMZN; Weekly directional trend is neutral or sideways
+
+Ticker: AMP; weekly squeeze_scan
+ 0.0,yellow
+AMP has room to run for the moment for the bollingers
+AMP has room to run for the moment for the keltners
+Ticker: AMP; Weekly stacked EMA
+ is in the positive direction
+Ticker: AMP; Weekly directional trend is neutral or sideways
+
+Ticker: APD; weekly squeeze_scan
+ 0.0,yellow
+APD has room to run for the moment for the bollingers
+APD has room to run for the moment for the keltners
+Ticker: APD; Weekly stacked EMA
+ is in the positive direction
+Ticker: APD; Weekly directional trend is positive
+
+Ticker: AUDC; weekly squeeze_scan
+ 0.0,yellow
+AUDC has room to run for the moment for the bollingers
+AUDC has room to run for the moment for the keltners
+Ticker: AUDC; Weekly stacked EMA
+ is in the positive direction
+Ticker: AUDC; Weekly directional trend is neutral or sideways
+
+Ticker: BBY; weekly squeeze_scan
+ 0.0,yellow
+BBY has room to run for the moment for the bollingers
+BBY has room to run for the moment for the keltners
+Ticker: BBY; Weekly stacked EMA
+ is neutral
+Ticker: BBY; Weekly directional trend is neutral or sideways
+
+Ticker: BEEM; weekly squeeze_scan
+ 1.0,red
+BEEM has room to run for the moment for the bollingers
+BEEM has room to run for the moment for the keltners
+Ticker: BEEM; Weekly stacked EMA
+ is neutral
+Ticker: BEEM; Weekly directional trend is neutral or sideways
+
+Ticker: BLNK; weekly squeeze_scan
+ 1.0,red
+BLNK has room to run for the moment for the bollingers
+BLNK has room to run for the moment for the keltners
+Ticker: BLNK; Weekly stacked EMA
+ is in the positive direction
+Ticker: BLNK; Weekly directional trend is neutral or sideways
+
+Ticker: BURL; weekly squeeze_scan
+ 0.0,yellow
+BURL has room to run for the moment for the bollingers
+BURL has room to run for the moment for the keltners
+Ticker: BURL; Weekly stacked EMA
+ is neutral
+Ticker: BURL; Weekly directional trend is neutral or sideways
+
+Ticker: CHE; weekly squeeze_scan
+ 0.0,yellow
+CHE has room to run for the moment for the bollingers
+CHE has room to run for the moment for the keltners
+Ticker: CHE; Weekly stacked EMA
+ is in the positive direction
+Ticker: CHE; Weekly directional trend is neutral or sideways
+
+Ticker: CHPT; weekly squeeze_scan
+ 1.0,red
+CHPT has room to run for the moment for the bollingers
+CHPT has room to run for the moment for the keltners
+Ticker: CHPT; Weekly stacked EMA
+ is in the negative direction
+Ticker: CHPT; Weekly directional trend is neutral or sideways
+
+Ticker: CLF; weekly squeeze_scan
+ 1.0,red
+CLF has room to run for the moment for the bollingers
+CLF has room to run for the moment for the keltners
+Ticker: CLF; Weekly stacked EMA
+ is neutral
+Ticker: CLF; Weekly directional trend is positive
+
+Ticker: CLFD; weekly squeeze_scan
+ 0.0,cyan
+CLFD has room to run for the moment for the bollingers
+CLFD has room to run for the moment for the keltners
+Ticker: CLFD; Weekly stacked EMA
+ is in the positive direction
+Ticker: CLFD; Weekly directional trend is positive
+
+Ticker: CMA; weekly squeeze_scan
+ 0.0,yellow
+CMA has room to run for the moment for the bollingers
+CMA has room to run for the moment for the keltners
+Ticker: CMA; Weekly stacked EMA
+ is in the positive direction
+Ticker: CMA; Weekly directional trend is positive
+
+Ticker: DKS; weekly squeeze_scan
+ 0.0,yellow
+DKS has room to run for the moment for the bollingers
+DKS has room to run for the moment for the keltners
+Ticker: DKS; Weekly stacked EMA
+ is in the positive direction
+Ticker: DKS; Weekly directional trend is negative
+
+Ticker: EVGO; weekly squeeze_scan
+ 0.0,yellow
+EVGO has room to run for the moment for the bollingers
+EVGO has room to run for the moment for the keltners
+Ticker: EVGO; Weekly stacked EMA
+ is in the positive direction
+Ticker: EVGO; Weekly directional trend is positive
+
+Ticker: F; weekly squeeze_scan
+ 0.0,yellow
+F has room to run for the moment for the bollingers
+F is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: F; Weekly stacked EMA
+ is in the positive direction
+Ticker: F; Weekly directional trend is positive
+
+Ticker: FB; weekly squeeze_scan
+ 1.0,yellow
+FB has room to run for the moment for the bollingers
+FB has room to run for the moment for the keltners
+Ticker: FB; Weekly stacked EMA
+ is neutral
+Ticker: FB; Weekly directional trend is negative
+
+Ticker: GOOG; weekly squeeze_scan
+ 1.0,blue
+GOOG has room to run for the moment for the bollingers
+GOOG has room to run for the moment for the keltners
+Ticker: GOOG; Weekly stacked EMA
+ is in the positive direction
+Ticker: GOOG; Weekly directional trend is positive
+
+Ticker: LOW; weekly squeeze_scan
+ 0.0,yellow
+LOW has room to run for the moment for the bollingers
+LOW is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: LOW; Weekly stacked EMA
+ is in the positive direction
+Ticker: LOW; Weekly directional trend is positive
+
+Ticker: M; weekly squeeze_scan
+ 0.0,yellow
+M has room to run for the moment for the bollingers
+M has room to run for the moment for the keltners
+Ticker: M; Weekly stacked EMA
+ is in the positive direction
+Ticker: M; Weekly directional trend is positive
+
+Ticker: MELI; weekly squeeze_scan
+ 0.0,red
+MELI has room to run for the moment for the bollingers
+MELI has room to run for the moment for the keltners
+Ticker: MELI; Weekly stacked EMA
+ is neutral
+Ticker: MELI; Weekly directional trend is negative
+
+Ticker: NET; weekly squeeze_scan
+ 0.0,blue
+NET has room to run for the moment for the bollingers
+NET has room to run for the moment for the keltners
+Ticker: NET; Weekly stacked EMA
+ is in the positive direction
+Ticker: NET; Weekly directional trend is positive
+
+Ticker: NIO; weekly squeeze_scan
+ 1.0,yellow
+NIO has room to run for the moment for the bollingers
+NIO has room to run for the moment for the keltners
+Ticker: NIO; Weekly stacked EMA
+ is neutral
+Ticker: NIO; Weekly directional trend is neutral or sideways
+
+Ticker: CRM; weekly squeeze_scan
+ 0.0,blue
+CRM has room to run for the moment for the bollingers
+CRM has room to run for the moment for the keltners
+Ticker: CRM; Weekly stacked EMA
+ is in the positive direction
+Ticker: CRM; Weekly directional trend is negative
+
+Ticker: WDAY; weekly squeeze_scan
+ 0.0,blue
+WDAY has room to run for the moment for the bollingers
+WDAY has room to run for the moment for the keltners
+Ticker: WDAY; Weekly stacked EMA
+ is in the positive direction
+Ticker: WDAY; Weekly directional trend is neutral or sideways
+
+Ticker: DASH; weekly squeeze_scan
+ 1.0,red
+DASH has room to run for the moment for the bollingers
+DASH has room to run for the moment for the keltners
+Ticker: DASH; Weekly stacked EMA
+ is neutral
+Ticker: DASH; Weekly directional trend is neutral or sideways
+
+Ticker: GM; weekly squeeze_scan
+ 0.0,cyan
+GM has room to run for the moment for the bollingers
+GM has room to run for the moment for the keltners
+Ticker: GM; Weekly stacked EMA
+ is in the positive direction
+Ticker: GM; Weekly directional trend is neutral or sideways
+
+Ticker: ALB; weekly squeeze_scan
+ 0.0,yellow
+ALB has room to run for the moment for the bollingers
+ALB has room to run for the moment for the keltners
+Ticker: ALB; Weekly stacked EMA
+ is in the positive direction
+Ticker: ALB; Weekly directional trend is positive
+
+Ticker: RIVN; weekly squeeze_scan
+ 0.0,yellow
+RIVN has room to run for the moment for the bollingers
+RIVN has room to run for the moment for the keltners
+Ticker: RIVN; Weekly stacked EMA
+ is in the negative direction
+Ticker: RIVN; Weekly directional trend is positive
+
+Ticker: ABNB; weekly squeeze_scan
+ 1.0,blue
+ABNB has room to run for the moment for the bollingers
+ABNB has room to run for the moment for the keltners
+Ticker: ABNB; Weekly stacked EMA
+ is in the positive direction
+Ticker: ABNB; Weekly directional trend is neutral or sideways
+
+Ticker: U; weekly squeeze_scan
+ 0.0,blue
+U has room to run for the moment for the bollingers
+U has room to run for the moment for the keltners
+Ticker: U; Weekly stacked EMA
+ is in the positive direction
+Ticker: U; Weekly directional trend is positive
+
+Ticker: CPRT; weekly squeeze_scan
+ 1.0,blue
+CPRT has room to run for the moment for the bollingers
+CPRT has room to run for the moment for the keltners
+Ticker: CPRT; Weekly stacked EMA
+ is in the positive direction
+Ticker: CPRT; Weekly directional trend is positive
+
+Ticker: UPST; weekly squeeze_scan
+ 0.0,red
+UPST has room to run for the moment for the bollingers
+UPST has room to run for the moment for the keltners
+Ticker: UPST; Weekly stacked EMA
+ is neutral
+Ticker: UPST; Weekly directional trend is negative
+
+Ticker: DAL; weekly squeeze_scan
+ 1.0,red
+DAL has room to run for the moment for the bollingers
+DAL has room to run for the moment for the keltners
+Ticker: DAL; Weekly stacked EMA
+ is in the negative direction
+Ticker: DAL; Weekly directional trend is neutral or sideways
+
+Ticker: RCL; weekly squeeze_scan
+ 1.0,red
+RCL has room to run for the moment for the bollingers
+RCL has room to run for the moment for the keltners
+Ticker: RCL; Weekly stacked EMA
+ is neutral
+Ticker: RCL; Weekly directional trend is neutral or sideways
+
+Ticker: MGM; weekly squeeze_scan
+ 0.0,yellow
+MGM has room to run for the moment for the bollingers
+MGM has room to run for the moment for the keltners
+Ticker: MGM; Weekly stacked EMA
+ is neutral
+Ticker: MGM; Weekly directional trend is neutral or sideways
+
+Ticker: BAC; weekly squeeze_scan
+ 0.0,yellow
+BAC has room to run for the moment for the bollingers
+BAC has room to run for the moment for the keltners
+Ticker: BAC; Weekly stacked EMA
+ is in the positive direction
+Ticker: BAC; Weekly directional trend is positive
+
+Ticker: ORCL; weekly squeeze_scan
+ 0.0,yellow
+ORCL has room to run for the moment for the bollingers
+ORCL has room to run for the moment for the keltners
+Ticker: ORCL; Weekly stacked EMA
+ is in the positive direction
+Ticker: ORCL; Weekly directional trend is positive
+
+Ticker: APPS; weekly squeeze_scan
+ 0.0,red
+APPS has room to run for the moment for the bollingers
+APPS has room to run for the moment for the keltners
+Ticker: APPS; Weekly stacked EMA
+ is neutral
+Ticker: APPS; Weekly directional trend is neutral or sideways
+
+Ticker: MPWR; weekly squeeze_scan
+ 0.0,yellow
+MPWR has room to run for the moment for the bollingers
+MPWR has room to run for the moment for the keltners
+Ticker: MPWR; Weekly stacked EMA
+ is in the positive direction
+Ticker: MPWR; Weekly directional trend is positive
+
+Ticker: TMO; weekly squeeze_scan
+ 0.0,yellow
+TMO has room to run for the moment for the bollingers
+TMO has room to run for the moment for the keltners
+Ticker: TMO; Weekly stacked EMA
+ is in the positive direction
+Ticker: TMO; Weekly directional trend is positive
+
